@@ -1,6 +1,8 @@
 # competition data files
 paddy-disease-classification/
 paddy-disease-classification.zip
+train_x256
+temp_img
 
 ### Temp files
 # submission file created in the notebooks
