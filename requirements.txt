@@ -48,7 +48,7 @@ entrypoints==0.4
 et-xmlfile==1.0.1
 etils==0.6.0
 executing==0.8.3
-fastai==2.7.16
+fastai==2.7.17
 fastbook==0.0.28
 fastcore==1.5.55
 fastdownload==0.0.7
@@ -171,6 +171,7 @@ pydantic==1.9.1
 Pygments==2.12.0
 PyGObject==3.36.0
 pymongo==3.12.3
+pynvml==11.5.3
 pyparsing==3.0.9
 pyrsistent==0.18.1
 PySocks==1.7.1
@@ -228,7 +229,7 @@ terminaltables==3.1.10
 thinc==8.1.0
 threadpoolctl==3.1.0
 tifffile==2022.5.4
-timm==1.0.9
+timm==0.6.13
 tinycss2==1.1.1
 tokenizers==0.12.1
 torch==1.12.0+cu116
